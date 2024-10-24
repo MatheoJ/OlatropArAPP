@@ -1,4 +1,6 @@
-# LOG8704_TP1
+# OlatropArAPP
+
+Mobile AR application where you play golf with portal
 
 ## Main Scene to Build  
 Name: Olatrop
